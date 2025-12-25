@@ -142,7 +142,7 @@ export function Hero() {
               transition={{ duration: 0.1 }}
             >
               <img
-                src="src\assests\me 2.png"
+                src="src\assests\me.png"
                 alt="Professional workspace"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
