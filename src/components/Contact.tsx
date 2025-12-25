@@ -63,7 +63,7 @@ export function Contact() {
       icon: Mail,
       label: 'Email',
       value: 'sathwikvenkateshrao@gmail.com',
-      href: 'mailto:hello@example.com',
+      href: 'mailto:sathwikvenkateshrao@gmail.com',
     },
     {
       icon: Phone,
