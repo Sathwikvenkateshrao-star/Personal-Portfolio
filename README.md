@@ -14,7 +14,6 @@ This portfolio is designed not just to display projects, but to clearly communic
 -  Modular, scalable component structure
 -  Fully responsive (mobile → desktop)
 -  Conversion-oriented copy & layout (startup-friendly)
--  
 ##  Tech Stack
 
 ### Frontend
